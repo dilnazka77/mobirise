@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Numerolog_Ulzhana1179",
+    "name": "Numerolog_Ulzhana1179-clone",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -67,7 +67,8 @@
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
     "cookiesAlert": false,
-    "gdpr": false
+    "gdpr": false,
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
